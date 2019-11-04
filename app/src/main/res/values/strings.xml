@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Motion Layout Example</string>
+
+    <!--region Main Activity-->
+    <string name="main_name">Model X</string>
+    <string name="main_brand">Tesla</string>
+    <string name="main_hint">Ingrese algun modelo de vehiculo</string>
+    <!--endregion-->
+</resources>
